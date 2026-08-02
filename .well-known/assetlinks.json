@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.youarejinlee.logplanet",
+      "sha256_cert_fingerprints": [
+        "BB:83:D9:70:2E:76:4D:2F:67:BD:2F:8A:21:C6:77:CB:06:6E:F5:BF:16:77:AE:62:7F:B0:92:F4:54:31:86:2E"
+      ]
+    }
+  }
+]
